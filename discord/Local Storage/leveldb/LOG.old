@@ -1,0 +1,5 @@
+2023/05/29-07:24:17.962 135e2 Creating DB /home/me/.config/discord/Local Storage/leveldb since it was missing.
+2023/05/29-07:24:18.068 135e2 Reusing MANIFEST /home/me/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/05/29-07:26:53.371 135e3 Level-0 table #5: started
+2023/05/29-07:26:53.757 135e3 Level-0 table #5: 1646792 bytes OK
+2023/05/29-07:26:53.765 135e3 Delete type=0 #3
