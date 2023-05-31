@@ -1,2 +1,3 @@
-2023/05/29-07:24:33.894 135e2 Creating DB /home/me/.config/discord/shared_proto_db since it was missing.
-2023/05/29-07:24:33.917 135e2 Reusing MANIFEST /home/me/.config/discord/shared_proto_db/MANIFEST-000001
+2023/05/30-21:44:08.485 1425d Reusing MANIFEST /home/me/.config/discord/shared_proto_db/MANIFEST-000001
+2023/05/30-21:44:08.485 1425d Recovering log #3
+2023/05/30-21:44:08.485 1425d Reusing old log /home/me/.config/discord/shared_proto_db/000003.log 

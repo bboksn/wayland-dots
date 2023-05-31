@@ -1,6 +1,29 @@
-2023/05/29-15:43:25.884 1e51 Reusing MANIFEST /home/me/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/05/29-15:43:25.884 1e51 Recovering log #4
-2023/05/29-15:43:25.885 1e51 Reusing old log /home/me/.config/discord/Local Storage/leveldb/000004.log 
-2023/05/29-15:44:26.546 1f68 Level-0 table #8: started
-2023/05/29-15:44:26.615 1f68 Level-0 table #8: 1660510 bytes OK
-2023/05/29-15:44:26.623 1f68 Delete type=0 #4
+2023/05/30-20:25:09.857 8f75 Reusing MANIFEST /home/me/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/05/30-20:25:09.857 8f75 Recovering log #7
+2023/05/30-20:25:09.862 8f75 Level-0 table #10: started
+2023/05/30-20:25:09.954 8f75 Level-0 table #10: 1631819 bytes OK
+2023/05/30-20:25:10.008 8f75 Delete type=0 #7
+2023/05/30-20:27:10.492 8fd4 Level-0 table #13: started
+2023/05/30-20:27:10.556 8fd4 Level-0 table #13: 1634960 bytes OK
+2023/05/30-20:27:10.565 8fd4 Delete type=0 #11
+2023/05/30-23:03:19.368 17937 Level-0 table #15: started
+2023/05/30-23:03:19.388 17937 Level-0 table #15: 23068 bytes OK
+2023/05/30-23:03:19.397 17937 Delete type=0 #12
+2023/05/30-23:49:00.735 17ea2 Level-0 table #17: started
+2023/05/30-23:49:00.753 17ea2 Level-0 table #17: 22574 bytes OK
+2023/05/30-23:49:00.761 17ea2 Delete type=0 #14
+2023/05/30-23:49:00.761 17ea2 Compacting 4@0 + 1@1 files
+2023/05/30-23:49:00.821 17ea2 Generated table #18@0: 82 keys, 1665616 bytes
+2023/05/30-23:49:00.821 17ea2 Compacted 4@0 + 1@1 files => 1665616 bytes
+2023/05/30-23:49:00.829 17ea2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/30-23:49:00.829 17ea2 Delete type=2 #8
+2023/05/30-23:49:00.829 17ea2 Delete type=2 #10
+2023/05/30-23:49:00.829 17ea2 Delete type=2 #13
+2023/05/30-23:49:00.829 17ea2 Delete type=2 #15
+2023/05/30-23:49:00.829 17ea2 Delete type=2 #17
+2023/05/31-00:16:24.560 198d4 Level-0 table #20: started
+2023/05/31-00:16:24.581 198d4 Level-0 table #20: 19268 bytes OK
+2023/05/31-00:16:24.590 198d4 Delete type=0 #16
+2023/05/31-00:26:15.948 1a367 Level-0 table #22: started
+2023/05/31-00:26:16.018 1a367 Level-0 table #22: 1633988 bytes OK
+2023/05/31-00:26:16.026 1a367 Delete type=0 #19

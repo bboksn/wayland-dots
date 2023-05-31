@@ -1,5 +1,10 @@
 updateInfoAdded=true
 
+[ark.upd]
+ctime=1685494899
+done=add-hamburgermenu-to-toolbar
+mtime=1683716422
+
 [dolphin_detailsmodesettings.upd]
 ctime=1685359606
 done=rename-leading-padding

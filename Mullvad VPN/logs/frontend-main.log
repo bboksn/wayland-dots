@@ -1,0 +1,11 @@
+[2023-05-30 21:07:42.390][verbose] Chromium sandbox is enabled
+[2023-05-30 21:07:42.391][info] Running version 2023.3
+[2023-05-30 21:07:42.391][verbose] Creating gui-settings file and writing the default settings to it
+[2023-05-30 21:07:42.457][info] Detected locale: en-US
+[2023-05-30 21:07:42.488][info] Connected to the daemon
+[2023-05-30 21:07:42.649][info] Skip autoconnect because account token is not set
+[2023-05-30 21:07:42.889][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/me/.config/autostart/mullvad-vpn.desktop'
+[2023-05-30 22:07:42.496][verbose] GRPC Channel connectivity state changed to 2
+[2023-05-30 23:07:42.498][verbose] GRPC Channel connectivity state changed to 2
+[2023-05-31 00:07:42.507][verbose] GRPC Channel connectivity state changed to 2
+[2023-05-31 01:07:42.512][verbose] GRPC Channel connectivity state changed to 2
